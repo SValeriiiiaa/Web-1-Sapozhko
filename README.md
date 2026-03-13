@@ -1,4 +1,9 @@
 # Web-1-Sapozhko EsPass
+Студентка: Сапожко Валерія Юріївна
+
+Група: КВ-31
+
+Назва лабораторної роботи: Розробка статичного інтерфейсу Web-додатка
 Посилання на звіт: https://docs.google.com/document/d/1qDfBFKG667kMgeqs31tCdEkSY4CyszFSWxnIdTyRY54/edit?hl=ru&tab=t.0
 
 Мета:
